@@ -1,1 +1,1 @@
-
+In this task, I acted as a data analyst at Spotify, focusing on the content analysis of top-performing songs. The goal was to explore the Top 50 Spotify Tracks 2020 dataset (https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020) and perform basic exploratory data analysis (EDA).
